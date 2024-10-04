@@ -8,6 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielps1&show_icons=true&theme=white)
 
+
 ## Tecnologia que eu uso no meu dia a dia
 
 <div style="text-align: center;">

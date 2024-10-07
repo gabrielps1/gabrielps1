@@ -42,8 +42,6 @@ Graduando em Ciência da Computação pela Unifenas e atualmente estudando sobre
   />
 </picture>
 
-![Snake animation](https://github.com/gabrielps1/gabrielps1/blob/output/github-contribution-grid-snake.svg)
-
 
 
 

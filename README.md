@@ -3,8 +3,20 @@
 ### Olá! Eu sou o Gabriel Silva 👋🏼
 
 
+  📚 Graduando em Ciência da Computação pela Unifenas e atualmente estudando sobre Front-End e programação.
+
+  🌱 Estou sempre em busca de aprender e melhorar minhas habilidades em diversas áreas, incluindo desenvolvimento de software.
+
+  🚀 Estou empolgado para compartilhar meu progresso, projetos e contribuições aqui no GitHub.
+
+ ##
+
+### Conecte-se comigo 📬
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriiellpereira/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](gabrielpereirasilva9@hotmail.com)
+
+##
 
 <div>
 <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=gabrielps1&show_icons=true&theme=white"/> 
@@ -23,13 +35,11 @@
 
 </div><br/>
 
-## Sobre mim
-
-Graduando em Ciência da Computação pela Unifenas e atualmente estudando sobre Front-End e programação.
-
-![snake gif](https://github.com/gabrielps1/gabrielps1/blob/output/github-contribution-grid-snake.svg)
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielps1/gabrielps1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielps1/gabrielps1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielps1/gabrielps1/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 
 

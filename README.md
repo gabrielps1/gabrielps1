@@ -27,20 +27,8 @@
 
 Graduando em Ciência da Computação pela Unifenas e atualmente estudando sobre Front-End e programação.
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gabrielps1/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/gabrielps1/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/gabrielps1/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+![snake gif](https://github.com/gabrielps1/gabrielps1/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
